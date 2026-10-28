@@ -6,5 +6,3 @@ Fixed in iOS 26.6. Also similar to CVE-2026-64693.
 Still works in MacOS tahoe 26.7.2, which is the latest version
 
 Usage: `python3 ex.py <input JPEG directory> <output JPEG directory>`
-
-Have fun :3
